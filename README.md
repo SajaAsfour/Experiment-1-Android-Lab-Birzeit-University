@@ -33,6 +33,6 @@ The app consists of:
 ## 📜 License
 This project is for educational purposes and does not have a specific license.
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 Developed as part of the Android Lab at **Birzeit University**.
 
